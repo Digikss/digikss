@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Digikss 😁
+## Bem-vindo(a) ao perfil do Digiks 😁
 
  <div>
    <a href="https://github.com/Digikss">
